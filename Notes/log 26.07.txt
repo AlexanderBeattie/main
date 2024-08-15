@@ -1,0 +1,6 @@
+From Rest api pov look into postman
+From unit test pov mockito
+Pair up with Jaikar n Taha / sit on discussions about tickets
+
+Spring Security using oauth - youtube videos, blogs, 
+and then try find examples/courses

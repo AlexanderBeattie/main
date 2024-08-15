@@ -1,0 +1,10 @@
+spring security with oauth
+
+client id and secret
+github, google
+
+attempted to merge an existing app/program with the security
+login then takes you to app
+
+Find out percentiles of SAP response times to report to Accenture
+for comparison after SAP RISE

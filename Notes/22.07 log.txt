@@ -1,0 +1,12 @@
+- Wrote down everything I had been doing every week
+- Spent the morning looking into different tables on Metabase
+and creating example queries to get used to SQL
+- Taha gave me example exercise questions for Metabase and Figma 
+- Completed the Metabase one that also involved exporting to excel
+and creating a graph
+
+-Look into Figma today and do the example q's for that and then test
+features I haven't looked at
+- Use Kibana to see if I can find logs for things I do eg using Firebase
+to topup a test account on SP App and finding that action within Kibana
+- Explore more into Metabase

@@ -1,0 +1,16 @@
+Spring Security with oauth github/google
+Adding a form based login
+Adding an index page to land off after successful login
+after login
+Adding a logout button that redirects
+Adding an error controller / error page to redirect to incase of anything
+Adding JWT Token - user logs in with oauth2, JWT token generated
+Added some tests
+Added an apicontroller meant that the index page would not be accessible
+and needs a JWT token to access it
+
+re-wrote whole project, adding things like priv/public keys,
+test userdata / roles, Token Generators, refresh tokens
+
+used postman to perform calls, welcome messages, sign-in, role specific
+eg admin-message

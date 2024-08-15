@@ -1,0 +1,25 @@
+Mark, had asked me to look into FM - Z_RCC_GET_CONNECTION_POINTS for 
+Accenture and determine the most used mode as a user has 4 different ways 
+they can call it within the FM.
+
+Checked Kibana/Grafana and found that we have no way to tell the difference
+as our logs do not show any indictation of the difference between modes. 
+Asim also said he doesn't believe it is possible.
+
+Mark had mentioned they should be able to find out from their end through
+SAP itself.
+
+SPRING (SECURITY, OAUTH, JWT) -
+Adding an error controller / error page to redirect to incase of anything
+Adding JWT Token - user logs in with oauth2, JWT token generated then can
+use across another API
+Added some tests
+Added an apicontroller meant that the index page would not be accessible
+and needs a JWT token to access it
+
+TO DO - 
+Working on css loading for each page
+fixing and adding the tests to work with the index page now needing
+a token and fully covering the program
+Will make sure I fully understand everything and look into signing key 
+concepts, expiry tokens etc

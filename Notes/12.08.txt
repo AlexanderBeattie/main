@@ -1,0 +1,21 @@
+Aspect - 
+Asked Andrew Black for resources for further reading on security and auth
+got some documentation on JWT web tokens an 'All you wanted to know'
+
+So read through that and some other related topics 
+
+Came back to HQ and was working on the Grafana dashboard for Weekly Reporting
+
+Fire alarm interrupted but got on a call with Joe and confirmed it 
+was working as expected then added the JSON to repo and pushed 
+updates through jenkins for prod and non prod
+
+Finished off the rest of the day brushing up on my frontend with the start
+of a basic html and css course
+
+Today got Summer Placement Leavers event in afternoon so before that
+Will do some of the front end course 
+
+If anyone has any other ideas for topics, software etc i should look at
+I can make a list and finish it off this week and in my spare time after
+I finish 

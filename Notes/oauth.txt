@@ -1,0 +1,12 @@
+  
+  oauth2:
+    client:
+      registration:
+        github:
+          client-id: Ov23liqurxJNnkCn5Icp
+          client-secret: e12fdbb06665cb926dcf18d66d06e4fbd265c078
+          redirect-uri: http://localhost:8080/login/oauth2/code/github
+        google:
+          client-id: 973151310823-n9kvp2dscdc5h5fccg056bl9ql6ff3ns.apps.googleusercontent.com
+          client-secret: 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
+          redirect-uri: http://localhost:8080/login/oauth2/code/google
