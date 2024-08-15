@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Error Page</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" th:href="@{/css/main.css}"/>
+</head>
+<body>
+<div class="error-container">
+  <h1>Error</h1>
+  <p th:utext="${errorMessage}">Error: An error occurred.</p>
+  <p>Exception details: <span th:utext="${exceptionDetails}"></span></p>
+  <a th:href="@{/sign-in}">Sign In</a> <!-- Link back to login page -->
+</div>
+</body>
+</html>

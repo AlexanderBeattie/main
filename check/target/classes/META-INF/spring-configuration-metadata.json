@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.alex.project.sandbox.config.RSAKeyRecord",
+      "sourceType": "com.alex.project.sandbox.config.RSAKeyRecord"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.rsa-private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "com.alex.project.sandbox.config.RSAKeyRecord"
+    },
+    {
+      "name": "jwt.rsa-public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "com.alex.project.sandbox.config.RSAKeyRecord"
+    }
+  ],
+  "hints": []
+}
