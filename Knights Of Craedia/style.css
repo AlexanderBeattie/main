@@ -1,0 +1,31 @@
+/*The code on this page is to add style to the main web page. You don't need to do anything here unless you want to make it look nice.*/
+body{
+  background-color: #0d1137  ;
+  color: #e52165;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+#game{
+  margin: 20px;
+  border: 5px solid #e52165;;
+  align-content: center;
+  fill: #e52165;
+  }
+
+  h1{
+    border:  3px solid #e52165;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  p{
+    border:  3px solid #e52165;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+  }

@@ -1,0 +1,20 @@
+Don't edit this file!
+Keep this copy of the basic scene code in case we need to add new scenes later.
+
+class Level extends Phaser.Scene{
+  constructor() {
+    //sets the name that the program will use for the current level.
+    //this becomes important if we have multiple levels using the same template.
+    super("Level");
+  }
+  preload(){
+    //bringing in the media assets for the current level
+  }
+  create(){
+    //creating the starting point for the level, loading the assets into sprites, setting up controls for the enemies, and collision detection
+    //this is where most of your code will be
+  }
+  update(){
+    //changes that happen on each screen refresh. This is mostly for player controls.
+  }
+}
