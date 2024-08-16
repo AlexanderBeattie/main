@@ -7,7 +7,7 @@ public class ProxyConfig {
 
   @PostConstruct
   public void setProxyProperties() {
-    System.setProperty("https.proxyHost", "proxyspw.corp.iberdrola.com");
+    System.setProperty("https.proxyHost", "BLANK");
     System.setProperty("https.proxyPort", "8080" );
   }
 }
